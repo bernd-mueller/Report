@@ -1,4 +1,4 @@
 # Report
-My awesome report
+This is an awesome report.
 
 This will be so great.
