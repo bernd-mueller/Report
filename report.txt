@@ -5,3 +5,7 @@ Hier mein toller Report.
 ## Einführung
 
 Mein tolles Projekt hat ...
+
+## Zusammenfassung
+
+Alles super.
